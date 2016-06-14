@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/omer/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="/Users/omer/Desktop/Android (Wissen)/SearchMovie/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.0.1_dc890fa0ee8cd33f1266e8be41e77a3ac32d831b.jar" />
+    </item>
+    <item
+        jar="/Users/omer/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.9.1/3dc0a3bea4f876c54846cd050e688f1bfc78fc96/jsoup-1.9.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3dc0a3bea4f876c54846cd050e688f1bfc78fc96">
+        <dex dex="/Users/omer/Desktop/Android (Wissen)/SearchMovie/app/build/intermediates/pre-dexed/debug/jsoup-1.9.1_e1981bce54da28ac88bd6c48602c7d5e1fe7dff3.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/Android (Wissen)/SearchMovie/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/omer/Desktop/Android (Wissen)/SearchMovie/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_6504c4cf1ad3b068d9b0eb4479f89d6ad37d779f.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/Android (Wissen)/SearchMovie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/omer/Desktop/Android (Wissen)/SearchMovie/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_704620b6e734afe7e9c9b09028fd6a6f9f062036.jar" />
+    </item>
+    <item
+        jar="/Users/omer/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/omer/Desktop/Android (Wissen)/SearchMovie/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_6a7fba902711d156f8ff69d87ee71e72e96f11a9.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/Android (Wissen)/SearchMovie/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/omer/Desktop/Android (Wissen)/SearchMovie/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_e434261736ca871707ac98242aefd73b4e35f5cf.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/Android (Wissen)/SearchMovie/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/omer/Desktop/Android (Wissen)/SearchMovie/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_ca660ed8ac4f2dc1203ed91ea8d0d699c72f52e7.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/Android (Wissen)/SearchMovie/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="/Users/omer/Desktop/Android (Wissen)/SearchMovie/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.0.1_3fcab590d317138347a55a25ccb0b7d7a8e8dcf9.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/Android (Wissen)/SearchMovie/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/omer/Desktop/Android (Wissen)/SearchMovie/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_a45d64d94a2f3161ca6066dcee3faed21c328819.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/omer/Desktop/Android (Wissen)/SearchMovie/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_ef5a0b20a4c6f04bac57436e99dc87ce7fdd6f78.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/SearchMovie/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e1947596897a298acb8e33e022cd3d892d2d0ad5">
+        <dex dex="/Users/omer/Desktop/SearchMovie/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_3dacccd0780eb8d6606d1043f3db2d4fb3eb4b18.jar" />
+    </item>
+
+</items>
